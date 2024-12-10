@@ -1,76 +1,76 @@
 {
-  "type": "Feature",
-  "stac_version": "1.0.0",
-  "stac_extensions": [],
-  "id": "7-NW-6D_cog_wgs84",
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          114.12326770964536,
-          22.441807870244936
-        ],
-        [
-          114.13055692148552,
-          22.441807870244936
-        ],
-        [
-          114.13055692148552,
-          22.447229551750905
-        ],
-        [
-          114.12326770964536,
-          22.447229551750905
-        ],
-        [
-          114.12326770964536,
-          22.441807870244936
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "id": "7-NW-6D_cog_wgs84",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    114.12326770964536,
+                    22.441807870244936
+                ],
+                [
+                    114.13055692148552,
+                    22.441807870244936
+                ],
+                [
+                    114.13055692148552,
+                    22.447229551750905
+                ],
+                [
+                    114.12326770964536,
+                    22.447229551750905
+                ],
+                [
+                    114.12326770964536,
+                    22.441807870244936
+                ]
+            ]
         ]
-      ]
-    ]
-  },
-  "bbox": [
-    114.12326770964536,
-    22.441807870244936,
-    114.13055692148552,
-    22.447229551750905
-  ],
-  "properties": {
-    "datetime": "2024-12-10T08:17:59.732512Z"
-  },
-  "links": [
-    {
-      "rel": "root",
-      "href": "/content/ib1000_stac/catalog.json",
-      "type": "application/json"
     },
-    {
-      "rel": "parent",
-      "href": "/content/ib1000_stac/ib1000/collection.json",
-      "type": "application/json",
-      "title": "IB1000 COG Collection"
+    "bbox": [
+        114.12326770964536,
+        22.441807870244936,
+        114.13055692148552,
+        22.447229551750905
+    ],
+    "properties": {
+        "datetime": "2024-12-10T08:17:59.732512Z"
     },
-    {
-      "rel": "collection",
-      "href": "/content/ib1000_stac/ib1000/collection.json",
-      "type": "application/json",
-      "title": "IB1000 COG Collection"
+    "links": [
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/ib1000/collection.json",
+            "type": "application/json",
+            "title": "IB1000 COG Collection"
+        },
+        {
+            "rel": "collection",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/ib1000/collection.json",
+            "type": "application/json",
+            "title": "IB1000 COG Collection"
+        },
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/7-NW-6D_cog_wgs84.json",
+            "type": "application/json"
+        }
+    ],
+    "assets": {
+        "cog": {
+            "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/ib1000-wgs/7-NW-6D_cog_wgs84.tif",
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+            "roles": [
+                "data"
+            ]
+        }
     },
-    {
-      "rel": "self",
-      "href": "/content/ib1000_stac/items/7-NW-6D_cog_wgs84.json",
-      "type": "application/json"
-    }
-  ],
-  "assets": {
-    "cog": {
-      "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/ib1000-wgs/7-NW-6D_cog_wgs84.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    }
-  },
-  "collection": "ib1000"
+    "collection": "ib1000"
 }

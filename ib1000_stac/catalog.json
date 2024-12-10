@@ -6,17 +6,17 @@
   "links": [
     {
       "rel": "root",
-      "href": "catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "ib1000/collection.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/ib1000/collection.json",
       "type": "application/json",
       "title": "IB1000 COG Collection"
     }
