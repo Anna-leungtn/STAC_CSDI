@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "ib1000",
   "stac_version": "1.0.0",
-  "description": "IB1000 COG collection",
+  "description": "iB1000 COG collection. his is a Sample collection containing Digital Topographic Map iB1000 COG collection. The i-Series Digital Maps provide more comprehensive datasets in new data formats and enable users to select the seamless version covering users’ defined area-of-interest so that they do not need to combine discrete tiles of digital maps into one single file for their work. The Digital map detail is represented as single coordinated points, or lines of multiple coordinated points. Coordinates of the Digital Map are in Hong Kong 1980 Grid, and heights are in metres above the Hong Kong Principal Datum. Revision date: 21/11/2024",
   "links": [
     {
       "rel": "root",

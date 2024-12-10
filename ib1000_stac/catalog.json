@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "csdi",
   "stac_version": "1.0.0",
-  "description": "Sample catalog containing IB1000 COG collection",
+  "description": "This is a CSDI Catalog trail run create under the LandsD CSDI Platform Section.",
   "links": [
     {
       "rel": "root",
