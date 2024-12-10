@@ -7,7 +7,7 @@
     {
       "rel": "root",
       "href": "catalog.json",
-      "type": "application/json"
+      "type": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json"
     },
     {
       "rel": "item",
@@ -5886,12 +5886,12 @@
     },
     {
       "rel": "parent",
-      "href": "catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "ib1000/collection.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/ib1000/collection.json",
       "type": "application/json"
     }
   ],
@@ -5902,8 +5902,8 @@
         [
           113.82506946980602,
           22.149022118032555,
-          848750.1058425064,
-          839000.0
+          114.298173701,
+          22.490536573
         ]
       ]
     },
