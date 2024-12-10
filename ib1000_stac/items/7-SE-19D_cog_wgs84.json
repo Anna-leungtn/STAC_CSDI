@@ -79,15 +79,15 @@
                     "raster:spatial_resolution": 1
                 }
             ]
+        },
+        "thumbnail": {
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000-Thumbnail/7-SE-19D_cog_wgs84.jpg",
+            "title": "Thumbnail",
+            "type": "image/jpeg",
+            "roles": [
+                "thumbnail"
+            ]
         }
     },
-    "collection": "ib1000",
-    "thumbnail": {
-        "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000-Thumbnail/7-SE-19D_cog_wgs84.jpg",
-        "title": "Thumbnail",
-        "type": "image/jpg",
-        "roles": [
-            "thumbnail"
-        ]
-    }
+    "collection": "ib1000"
 }
