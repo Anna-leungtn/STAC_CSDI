@@ -69,8 +69,25 @@
             "type": "image/tiff; application=geotiff; profile=cloud-optimized",
             "roles": [
                 "data"
+            ],
+            "raster:spatial_resolution": 1,
+            "bands": [
+                {
+                    "name": "gray",
+                    "eo:common_name": "grayscale",
+                    "data_type": "uint8",
+                    "raster:spatial_resolution": 1
+                }
             ]
         }
     },
-    "collection": "ib1000"
+    "collection": "ib1000",
+    "thumbnail": {
+        "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000-Thumbnail/7-SE-11A_cog_wgs84.jpg",
+        "title": "Thumbnail",
+        "type": "image/jpg",
+        "roles": [
+            "thumbnail"
+        ]
+    }
 }
