@@ -1,0 +1,24 @@
+{
+  "type": "Catalog",
+  "id": "csdi",
+  "stac_version": "1.0.0",
+  "description": "Sample catalog containing IB1000 COG collection",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/ib1000_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/content/ib1000_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "/content/ib1000_stac/ib1000/collection.json",
+      "type": "application/json",
+      "title": "IB1000 COG Collection"
+    }
+  ]
+}

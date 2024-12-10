@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "8-NW-8A_cog_wgs84",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          114.29084861824299,
+          22.44718879856012
+        ],
+        [
+          114.2981406307252,
+          22.44718879856012
+        ],
+        [
+          114.2981406307252,
+          22.45261418391736
+        ],
+        [
+          114.29084861824299,
+          22.45261418391736
+        ],
+        [
+          114.29084861824299,
+          22.44718879856012
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    114.29084861824299,
+    22.44718879856012,
+    114.2981406307252,
+    22.45261418391736
+  ],
+  "properties": {
+    "datetime": "2024-12-10T08:21:55.771314Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/ib1000_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "/content/ib1000_stac/ib1000/collection.json",
+      "type": "application/json",
+      "title": "IB1000 COG Collection"
+    },
+    {
+      "rel": "collection",
+      "href": "/content/ib1000_stac/ib1000/collection.json",
+      "type": "application/json",
+      "title": "IB1000 COG Collection"
+    },
+    {
+      "rel": "self",
+      "href": "/content/ib1000_stac/items/8-NW-8A_cog_wgs84.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "cog": {
+      "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/ib1000-wgs/8-NW-8A_cog_wgs84.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "ib1000"
+}
