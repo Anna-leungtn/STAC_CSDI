@@ -87,6 +87,11 @@
             "roles": [
                 "thumbnail"
             ]
+        },
+        "QUICKLOOK": {
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000-Thumbnail/8-SW-8D_cog_wgs84.jpg",
+            "title": "QUICKLOOK",
+            "type": "image/jpeg"
         }
     },
     "collection": "ib1000"
