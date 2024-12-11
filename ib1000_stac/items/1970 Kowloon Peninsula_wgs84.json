@@ -81,12 +81,12 @@
             ]
         },
         "QUICKLOOK": {
-            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1970%20KowloonvPeninsula_wgs84.jpg",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1970%20Kowloon%20Peninsula_wgs84.jpg",
             "title": "QUICKLOOK",
             "type": "image/jpeg"
         },
         "thumbnail": {
-            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1970 Kowloon Peninsula_wgs84.jpg",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1970%20Kowloon%20Peninsula_wgs84.jpg",
             "title": "Thumbnail",
             "type": "image/jpeg",
             "roles": [
