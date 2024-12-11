@@ -69,12 +69,29 @@
             "type": "image/tiff; application=geotiff; profile=cloud-optimized",
             "roles": [
                 "data"
+            ],
+            "raster:spatial_resolution": 1,
+            "bands": [
+                {
+                    "name": "gray",
+                    "eo:common_name": "grayscale",
+                    "data_type": "uint16",
+                    "raster:spatial_resolution": 1
+                }
             ]
         },
         "QUICKLOOK": {
             "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1957%20Hong%20Kong_wgs84.jpg",
             "title": "QUICKLOOK",
             "type": "image/jpeg"
+        },
+        "thumbnail": {
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1957 Hong Kong_wgs84.jpg",
+            "title": "Thumbnail",
+            "type": "image/jpeg",
+            "roles": [
+                "thumbnail"
+            ]
         }
     },
     "collection": "historical"
