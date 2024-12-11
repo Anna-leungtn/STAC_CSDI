@@ -1,0 +1,81 @@
+{
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "id": "1892 Kowloon Peninsula_wgs84",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    114.16277342697096,
+                    22.29000583244422
+                ],
+                [
+                    114.19595133797681,
+                    22.29000583244422
+                ],
+                [
+                    114.19595133797681,
+                    22.321524077156916
+                ],
+                [
+                    114.16277342697096,
+                    22.321524077156916
+                ],
+                [
+                    114.16277342697096,
+                    22.29000583244422
+                ]
+            ]
+        ]
+    },
+    "bbox": [
+        114.16277342697096,
+        22.29000583244422,
+        114.19595133797681,
+        22.321524077156916
+    ],
+    "properties": {
+        "datetime": "2024-12-10T23:51:25.962093Z"
+    },
+    "links": [
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
+            "type": "application/json",
+            "title": "Historical Map collection"
+        },
+        {
+            "rel": "collection",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
+            "type": "application/json",
+            "title": "Historical Map collection"
+        },
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1892%20Kowloon%20Peninsula_wgs84.json",
+            "type": "application/json"
+        }
+    ],
+    "assets": {
+        "cog": {
+            "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/Historical-Map-WGS/1892%20Kowloon%20Peninsula_wgs84.tif",
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+            "roles": [
+                "data"
+            ]
+        },
+        "QUICKLOOK": {
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1892%20Kowloon%20Peninsula_wgs84.jpg",
+            "title": "QUICKLOOK",
+            "type": "image/jpeg"
+        }
+    },
+    "collection": "historical"
+}

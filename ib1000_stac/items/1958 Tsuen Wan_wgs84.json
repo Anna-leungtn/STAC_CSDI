@@ -1,0 +1,81 @@
+{
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "id": "1958 Tsuen Wan_wgs84",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    114.10096963320052,
+                    22.357978834952156
+                ],
+                [
+                    114.14759048698117,
+                    22.357978834952156
+                ],
+                [
+                    114.14759048698117,
+                    22.392674674234996
+                ],
+                [
+                    114.10096963320052,
+                    22.392674674234996
+                ],
+                [
+                    114.10096963320052,
+                    22.357978834952156
+                ]
+            ]
+        ]
+    },
+    "bbox": [
+        114.10096963320052,
+        22.357978834952156,
+        114.14759048698117,
+        22.392674674234996
+    ],
+    "properties": {
+        "datetime": "2024-12-10T23:51:29.412515Z"
+    },
+    "links": [
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
+            "type": "application/json",
+            "title": "Historical Map collection"
+        },
+        {
+            "rel": "collection",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
+            "type": "application/json",
+            "title": "Historical Map collection"
+        },
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1958%20Tsuen%20Wan_wgs84.json",
+            "type": "application/json"
+        }
+    ],
+    "assets": {
+        "cog": {
+            "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/Historical-Map-WGS/1958%20Tsuen%20Wan_wgs84.tif",
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+            "roles": [
+                "data"
+            ]
+        },
+        "QUICKLOOK": {
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1958%20Tsuen%20Wan_wgs84.jpg",
+            "title": "QUICKLOOK",
+            "type": "image/jpeg"
+        }
+    },
+    "collection": "historical"
+}

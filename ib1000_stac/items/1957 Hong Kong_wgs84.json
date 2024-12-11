@@ -1,0 +1,81 @@
+{
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "id": "1957 Hong Kong_wgs84",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    113.78021510085092,
+                    22.104306838082966
+                ],
+                [
+                    114.53904708620848,
+                    22.104306838082966
+                ],
+                [
+                    114.53904708620848,
+                    22.64659291376765
+                ],
+                [
+                    113.78021510085092,
+                    22.64659291376765
+                ],
+                [
+                    113.78021510085092,
+                    22.104306838082966
+                ]
+            ]
+        ]
+    },
+    "bbox": [
+        113.78021510085092,
+        22.104306838082966,
+        114.53904708620848,
+        22.64659291376765
+    ],
+    "properties": {
+        "datetime": "2024-12-10T23:51:27.861189Z"
+    },
+    "links": [
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
+            "type": "application/json",
+            "title": "Historical Map collection"
+        },
+        {
+            "rel": "collection",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
+            "type": "application/json",
+            "title": "Historical Map collection"
+        },
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1957%20Hong%20Kong_wgs84.json",
+            "type": "application/json"
+        }
+    ],
+    "assets": {
+        "cog": {
+            "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/Historical-Map-WGS/1957%20Hong%20Kong_wgs84.tif",
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+            "roles": [
+                "data"
+            ]
+        },
+        "QUICKLOOK": {
+            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/Historical-Map-Thumbnail/1957%20Hong%20Kong_wgs84.jpg",
+            "title": "QUICKLOOK",
+            "type": "image/jpeg"
+        }
+    },
+    "collection": "historical"
+}
