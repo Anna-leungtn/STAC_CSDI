@@ -6,42 +6,42 @@
   "links": [
     {
       "rel": "root",
-      "href": "/content/ib1000_stac/catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "/content/ib1000_stac/items/1892%20Kowloon%20Peninsula_wgs84.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1892%20Kowloon%20Peninsula_wgs84.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "/content/ib1000_stac/items/1957%20Hong%20Kong_wgs84.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1957%20Hong%20Kong_wgs84.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "/content/ib1000_stac/items/1958%20Tsuen%20Wan_wgs84.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1958%20Tsuen%20Wan_wgs84.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "/content/ib1000_stac/items/1963%20Kowloon%20Peninsula_wgs84.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1963%20Kowloon%20Peninsula_wgs84.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "/content/ib1000_stac/items/1970%20Kowloon%20Peninsula_wgs84.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/items/1970%20Kowloon%20Peninsula_wgs84.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "/content/ib1000_stac/catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "/content/ib1000_stac/historical/collection.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000_stac/historical/collection.json",
       "type": "application/json"
     }
   ],
