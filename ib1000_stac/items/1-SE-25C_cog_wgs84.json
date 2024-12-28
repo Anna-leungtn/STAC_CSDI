@@ -89,9 +89,9 @@
             ]
         },
         "QUICKLOOK": {
-            "href": "https://raw.githubusercontent.com/Anna-leungtn/STAC_CSDI/refs/heads/main/ib1000-Thumbnail/1-SE-25C_cog_wgs84.jpg",
+            "href": "https://github.com/Anna-leungtn/STAC_CSDI/raw/refs/heads/main/ib1000-wgs/1-SE-25C_cog_wgs84.tif",
             "title": "QUICKLOOK",
-            "type": "image/jpeg"
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized"
         }
     },
     "collection": "ib1000"
