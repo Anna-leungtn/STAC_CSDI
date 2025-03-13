@@ -1,0 +1,129 @@
+{
+  "type": "Collection",
+  "id": "ib20000",
+  "stac_version": "1.1.0",
+  "description": "IB20000 collection of geospatial data.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet1.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet2.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet4.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet17.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet6.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet8.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet18.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet9.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet12.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet13.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet14.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet16.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet5.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet10.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet3.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet7.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet11.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./Sheet15.json",
+      "type": "application/geo+json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180,
+          -90,
+          180,
+          90
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}

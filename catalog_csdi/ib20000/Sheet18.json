@@ -1,0 +1,66 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "Sheet18",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          114.40745318015009,
+          22.463326158402417
+        ],
+        [
+          114.55319040314292,
+          22.463052002874605
+        ],
+        [
+          114.55289866552353,
+          22.35468839277197
+        ],
+        [
+          114.40727441013807,
+          22.354961092666723
+        ],
+        [
+          114.40745318015009,
+          22.463326158402417
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    114.40727441013807,
+    22.35468839277197,
+    114.55319040314292,
+    22.463326158402417
+  ],
+  "properties": {
+    "datetime": "2024-11-14T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "./collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB20000&sheetName=T18&productFormat=TIFF",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "collection": "ib20000"
+}
