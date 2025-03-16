@@ -13,6 +13,11 @@
       "rel": "child",
       "href": "./collection/ib10000.json",
       "type": "application/json"
+    },
+        {
+      "rel": "child",
+      "href": "./collection/ib20000.json",
+      "type": "application/json"
     }
   ]
 }
