@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "ib10000_10-SE",
+  "properties": {
+    "datetime": "2024-11-14T00:00:00Z"
+  },
+  "geometry": {
+    "coordinates": [
+      [
+        [
+          [
+            114.04326028330142,
+            22.300886564547525
+          ],
+          [
+            114.11604535332744,
+            22.300930157600142
+          ],
+          [
+            114.11606875872238,
+            22.246746319829438
+          ],
+          [
+            114.04331171621978,
+            22.246702845457186
+          ],
+          [
+            114.04326028330142,
+            22.300886564547525
+          ]
+        ]
+      ]
+    ],
+    "type": "MultiPolygon"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./ib10000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "./ib10000.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "TIFF": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB10000&sheetName=T10-SE&productFormat=TIFF",
+      "type": "image/tiff; application=geotiff"
+    },
+    "DWG": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB10000&sheetName=T10-SE&productFormat=DWG",
+      "type": "application/dwg"
+    },
+    "GML": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB10000&sheetName=T10-SE&productFormat=GML",
+      "type": "application/gml+xml"
+    },
+    "DGN": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB10000&sheetName=T10-SE&productFormat=DGN",
+      "type": "application/dgn"
+    },
+    "FGDB": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB10000&sheetName=T10-SE&productFormat=FGDB",
+      "type": "application/x-filegdb"
+    }
+  },
+  "bbox": [
+    114.04326028330142,
+    22.246702845457186,
+    114.11606875872238,
+    22.300930157600142
+  ],
+  "stac_extensions": [],
+  "collection": "ib10000"
+}

@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "ib20000_17",
+  "properties": {
+    "datetime": "2024-11-14T00:00:00Z"
+  },
+  "geometry": {
+    "coordinates": [
+      [
+        [
+          [
+            114.40763304339964,
+            22.571689772599495
+          ],
+          [
+            114.55348392850085,
+            22.571414159237776
+          ],
+          [
+            114.55319040314292,
+            22.463052002874605
+          ],
+          [
+            114.40745318015009,
+            22.463326158402417
+          ],
+          [
+            114.40763304339964,
+            22.571689772599495
+          ]
+        ]
+      ]
+    ],
+    "type": "MultiPolygon"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./ib20000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "./ib20000.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "TIFF": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB20000&sheetName=T17&productFormat=TIFF",
+      "type": "image/tiff; application=geotiff"
+    },
+    "DWG": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB20000&sheetName=T17&productFormat=DWG",
+      "type": "application/dwg"
+    },
+    "GML": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB20000&sheetName=T17&productFormat=GML",
+      "type": "application/gml+xml"
+    },
+    "DGN": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB20000&sheetName=T17&productFormat=DGN",
+      "type": "application/dgn"
+    },
+    "FGDB": {
+      "href": "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB20000&sheetName=T17&productFormat=FGDB",
+      "type": "application/x-filegdb"
+    }
+  },
+  "bbox": [
+    114.40745318015009,
+    22.463052002874605,
+    114.55348392850085,
+    22.571689772599495
+  ],
+  "stac_extensions": [],
+  "collection": "ib20000"
+}

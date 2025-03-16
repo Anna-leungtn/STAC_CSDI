@@ -1,0 +1,334 @@
+{
+  "type": "Collection",
+  "id": "ib10000",
+  "stac_version": "1.0.0",
+  "description": "ib10000",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_18-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_12-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_12-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_4-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_6-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_8-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_9-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_12-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_5-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_10-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_2-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_11-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_10-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_11-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_11-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_13-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_14-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_15-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_15-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_13-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_14-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_14-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_16-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_9-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_10-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_11-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_12-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_3-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_1-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_5-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_10-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_16-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_15-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_9-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_14-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_13-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_13-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_3-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_4-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_17-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_2-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_3-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_3-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_4-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_5-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_6-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_8-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_8-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_6-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_7-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_8-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_2-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_17-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_7-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_7-SW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_9-NW.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_15-SE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_7-NE.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ib10000_6-SE.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          113.82463483089468,
+          22.138010289169852,
+          114.48055876827034,
+          22.571855022385893
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-11-14T00:00:00Z",
+          "2024-11-14T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
